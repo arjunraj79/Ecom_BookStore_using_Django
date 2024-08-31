@@ -1,5 +1,5 @@
 <p id ="top" align="center">
-  <img src="https://github.com/YashMarmat/Pages-App-django/blob/master/templates/django bookstore logo.png" width="90%">
+  <img src="https://github.com/arjunraj79/Ecom_BookStore_using_Django/blob/main/django%20bookstore%20logo%20arjunraj79.png" width="90%">
 </p>
 
 
