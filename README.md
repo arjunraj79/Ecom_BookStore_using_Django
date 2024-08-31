@@ -6,7 +6,7 @@
 # Django-Ecommece-Bookstore
 <p>An online bookshop developed in django-3 which allow users to purchase books online :) </p>
 
-<img src="https://github.com/YashMarmat/Pages-App-django/blob/master/templates/dj-ecom-bstore-pic2.png?raw=true">
+<img src="https://github.com/arjunraj79/Ecom_BookStore_using_Django/blob/main/Screenshot%202024-08-31%20180446.png">
 
 ### Live App
 * checkout the site here: <a href="https://dj-bookstore.onrender.com/" target="_blank" >Deployed App</a> (little note below)
